@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icons8-subtitles-26.png</file>
+    <file>icons8-add-folder-64.png</file>
+    <file>icons8-baby-yoda-50.png</file>
+    <file>scale.jpeg</file>
+  </qresource>
+</RCC>

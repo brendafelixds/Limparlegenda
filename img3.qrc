@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icons8-baby-yoda-48.png</file>
+    <file>icons8-subtitles-50.png</file>
+    <file>icons8-add-folder-64.png</file>
+    <file>icons8-baby-yoda-50.png</file>
+    <file>scale.jpeg</file>
+    <file>icon.ico</file>
+  </qresource>
+</RCC>
